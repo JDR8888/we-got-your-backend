@@ -46,7 +46,6 @@ router.post('/', async (req, res) => {
     message: 'no dice' });
     return;
 }
-// res.status(200).json(newCategory)
 });
 
 

@@ -23,7 +23,7 @@ The github repo is @ https://github.com/JDR8888/we-got-your-backend
 
 demo of the project:
 
-![screenshot of project]()
+linke to walkthrough video: https://drive.google.com/file/d/1ijjY-aofo9pecmXKgJGtTIfI7BIhe2OW/view 
 
 
 # Installation
